@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{238C160E-EA6E-4E6F-BED4-325C7F016DCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Outer.CLI", "src\Outer.CLI\Outer.CLI.csproj", "{F6D8219A-A4A4-4DC8-8790-363569B6DD8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F6D8219A-A4A4-4DC8-8790-363569B6DD8C} = {238C160E-EA6E-4E6F-BED4-325C7F016DCF}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6D8219A-A4A4-4DC8-8790-363569B6DD8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D8219A-A4A4-4DC8-8790-363569B6DD8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D8219A-A4A4-4DC8-8790-363569B6DD8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D8219A-A4A4-4DC8-8790-363569B6DD8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
